@@ -1,9 +1,8 @@
 {
  "name": "Regional Burguer ",
- "theme_color": "#FFFFFF",
  "description": "Ponta Negra",
- "start_url": "index.htm",
  "background_color": "#FFFFFF",
+ "start_url": "index.htm",
  "icons": [
   {
    "type": "image/png",
@@ -41,5 +40,6 @@
    "src": "misc/icon64.png"
   }
  ],
- "display": "fullscreen"
+ "display": "fullscreen",
+ "theme_color": "#FFFFFF"
 }
