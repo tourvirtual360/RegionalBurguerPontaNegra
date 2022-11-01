@@ -3,9 +3,10 @@
 ## Tour
 
 ### Description
+tour.description = Ponta Negra
 
 ### Title
-tour.name = Sem Título 17
+tour.name = Regional Burguer 
 
 ## Skin
 
@@ -34,7 +35,7 @@ LinkBehaviour_2302E583_30F8_6809_41A0_E96B061A133A.source = https://www.ifood.co
 LinkBehaviour_23441043_30F9_E808_41C0_519FBCEA89CC.source = https://www.instagram.com/regionalburger/
 LinkBehaviour_23C9E2BA_30F8_687B_41C2_DCC2059B14E0.source = https://wa.link/syexty
 LinkBehaviour_23E2F80A_30F8_1818_41AB_DB5061B8AF59.source = https://goo.gl/maps/bmnTKjxU6B11eChA9
-LinkBehaviour_23FE74B1_30F8_2808_41BE_FA893752C5BA.source = https://wa.link/7sy7um
+LinkBehaviour_23FE74B1_30F8_2808_41BE_FA893752C5BA.source = https://www.ifood.com.br/delivery/manaus-am/regional-burger-zona-oeste-ponta-negra/3fd52a59-0d2f-4acd-a1ad-6e5567d4e1e5
 LinkBehaviour_23FE84AC_30F8_2818_41B5_B6E3C9156157.source = https://wa.link/7sy7um
-LinkBehaviour_23FEB4AF_30F8_2818_41BB_5B4505B21F65.source = https://goo.gl/maps/bmnTKjxU6B11eChA9
+LinkBehaviour_23FEB4AF_30F8_2818_41BB_5B4505B21F65.source = https://goo.gl/maps/GRWDNZY2gZxZiUHo7
 LinkBehaviour_23FF44AE_30F8_2818_41AD_DF04C55A782C.source = https://www.instagram.com/regionalburger/
