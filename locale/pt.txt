@@ -1,0 +1,40 @@
+#: locale=pt
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Sem Título 17
+
+## Skin
+
+### Button
+Button_212ECDA6_3058_7808_41B7_D72316B92FE1.label = FAÇA SEU PEDIDO
+Button_212ECDA6_3058_7808_41B7_D72316B92FE1_mobile.label = FAÇA SEU PEDIDO
+Button_2B01C212_31A8_2808_41AA_EDF2A1189AF1.label = FOODTRUCK
+Button_2B2BE422_31B8_E808_41AC_6CA6C5A9E0E9.label = SALÃO
+Button_2C4756D6_31D8_280B_41C0_5E27EC343328.label = NA BRASA
+
+## Media
+
+### Title
+panorama_27164908_3068_1818_41BF_ACBF9B323B41.label = FOTO_3116-art-width-9000px
+panorama_27804192_3068_6808_419E_393F1BEDE4F6.label = FOTO_3119-art-width-9000px
+panorama_2787081C_3068_F838_41C0_CCA4A6560D16.label = FOTO_3129-art-width-9000px
+panorama_2787145E_3068_2838_419C_5FD0F988AEA1.label = FOTO_3128-art-width-9000px
+video_28451C4F_31A8_1818_41C3_F60ADC1A5090.label = IMG_5265 (1)
+video_288D4FDD_3068_3838_41A7_E883206CE008.label = IMG_5259
+video_29B84004_31B9_E808_41C4_86932837DE8D.label = IMG_5266 (1)
+
+## Action
+
+### URL
+LinkBehaviour_2302E583_30F8_6809_41A0_E96B061A133A.source = https://www.ifood.com.br/delivery/manaus-am/regional-burger-zona-oeste-ponta-negra/3fd52a59-0d2f-4acd-a1ad-6e5567d4e1e5
+LinkBehaviour_23441043_30F9_E808_41C0_519FBCEA89CC.source = https://www.instagram.com/regionalburger/
+LinkBehaviour_23C9E2BA_30F8_687B_41C2_DCC2059B14E0.source = https://wa.link/syexty
+LinkBehaviour_23E2F80A_30F8_1818_41AB_DB5061B8AF59.source = https://goo.gl/maps/bmnTKjxU6B11eChA9
+LinkBehaviour_23FE74B1_30F8_2808_41BE_FA893752C5BA.source = https://wa.link/7sy7um
+LinkBehaviour_23FE84AC_30F8_2818_41B5_B6E3C9156157.source = https://wa.link/7sy7um
+LinkBehaviour_23FEB4AF_30F8_2818_41BB_5B4505B21F65.source = https://goo.gl/maps/bmnTKjxU6B11eChA9
+LinkBehaviour_23FF44AE_30F8_2818_41AD_DF04C55A782C.source = https://www.instagram.com/regionalburger/
